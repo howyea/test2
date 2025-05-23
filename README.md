@@ -1,3 +1,8 @@
+# 0.0.3
+1. resolve the bug can navigate to index page when login finish.
+2. opimize Login UI
+3. opimize token function
+4. Add fireworks special effects in Grid game
 # 0.0.2
 1. add levels and solve some bug
 # 0.0.1
