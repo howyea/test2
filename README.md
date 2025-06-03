@@ -1,3 +1,6 @@
+# 0.0.4
+1. add appIcons
+2. In FlyingGrid, jump to next level when current level is over
 # 0.0.3
 1. resolve the bug can navigate to index page when login finish.
 2. opimize Login UI
