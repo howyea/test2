@@ -1,3 +1,5 @@
+# 0.0.5
+add new desktop
 # 0.0.4
 1. add appIcons
 2. In FlyingGrid, jump to next level when current level is over
