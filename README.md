@@ -1,3 +1,6 @@
+# 0.0.6
+1. adjust sideNav style
+2. add .env file to solve basePath question
 # 0.0.5
 add new desktop
 # 0.0.4
