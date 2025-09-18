@@ -1,3 +1,7 @@
+# 0.0.7
+1. add appStore
+2. can download app from appStore
+
 # 0.0.6
 1. adjust sideNav style
 2. add .env file to solve basePath question
