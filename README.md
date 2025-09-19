@@ -1,6 +1,7 @@
 # 0.0.7
 1. add appStore
 2. can download app from appStore
+3. 处理无限刷新的问题
 
 # 0.0.6
 1. adjust sideNav style
